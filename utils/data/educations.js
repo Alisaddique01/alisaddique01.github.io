@@ -1,20 +1,32 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "B.Sc Software Engineering",
+    duration: "2020 - 2024",
+    institution: "The University of Azad Jammu and Kashmir, Chella Campus",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Google Cybersecurity Certificate",
+    duration: "2024",
+    institution: "Google/Coursera",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "AI Essentials",
+    duration: "2024",
+    institution: "Google/Coursera",
+  },
+  {
+    id: 4,
+    title: "Networking Essentials",
+    duration: "2024",
+    institution: "Cisco",
+  },
+  {
+    id: 5,
+    title: "Content Marketing & Advertising - Freelancing",
+    duration: "2021",
+    institution: "National Freelancing Training Program (NFTP)",
   }
-]
+];
